@@ -10,24 +10,24 @@
 ## 💼 Technical Skills
 
 ### 🏗️ Primary Skills
-- ** Programming Languages:** PHP, JavaScript, TypeScript.
-- ** Frameworks and Libraries:** Laravel, Livewire, Vite, React, NextJS, Redux.
-- ** Databases:** MySQL, PostgreSQL, MariaDB, MongoDB.
-- ** UI Frameworks:** Bootstrap, Tailwind CSS.
-- ** DevOps:** Docker, Jenkins, GitLab.
-- ** APIs:** RESTful API design and development.
+- **Programming Languages:** PHP, JavaScript, TypeScript.
+- **Frameworks and Libraries:** Laravel, Livewire, Vite, React, NextJS, Redux.
+- **Databases:** MySQL, PostgreSQL, MariaDB, MongoDB.
+- **UI Frameworks:** Bootstrap, Tailwind CSS.
+- **DevOps:** Docker, Jenkins, GitLab.
+- **APIs:** RESTful API design and development.
 
 ### 🤖 Secondary Skills
-- ** Programming & Data:** Python, Machine Learning, Deep Learning
-- ** BI & Analytics:** SSRS, Power BI, Zabbix, Grafana.
-- ** Infrastructure:** Veeam Backup, Veeam One, Active Directory, DNS, DHCP, etc. 
-- ** Automation:** Automation Edge, RPA tools.
+- **Programming & Data:** Python, Machine Learning, Deep Learning
+- **BI & Analytics:** SSRS, Power BI, Zabbix, Grafana.
+- **Infrastructure:** Veeam Backup, Veeam One, Active Directory, DNS, DHCP, etc. 
+- **Automation:** Automation Edge, RPA tools.
 
 ### 📌 Additional Skills:
 
-- ** AutoCAD Proficiency: Skilled in utilizing AutoCAD for precision and efficiency in design and documentation.
+- **AutoCAD Proficiency: Skilled in utilizing AutoCAD for precision and efficiency in design and documentation.
 
-- ** Multilingual Communication: Fluent in Spanish, Portuguese, and English, facilitating seamless collaboration in a global context.
+- **Multilingual Communication: Fluent in Spanish, Portuguese, and English, facilitating seamless collaboration in a global context.
 
 ---
 
