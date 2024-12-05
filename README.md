@@ -8,51 +8,63 @@
 
 --- 
 
-# 👋 Hi there! I'm Magnum David Rodriguez Parra
-
 ## 👨‍💻 About Me
-- 🌍 Originally from **Maracaibo, Venezuela**, currently living in **Curitiba, Brazil** (8 years and counting!).
-- 🖥️ Full Stack Developer with a passion for building efficient and scalable web applications.
-- 🧑‍🎓 26 years old, with expertise in modern web and infrastructure technologies.
 
----
+👋 Hi there! I'm **Magnum David Rodriguez Parra**, a passionate **Full Stack Developer** from **Maracaibo, Venezuela**, currently based in **Curitiba, Brazil**, where I’ve been living for the past 8 years. 
+I’m 26 years old and have honed my skills in both modern web development and IT infrastructure, combining these to create efficient and scalable web applications and solutions.
 
-## 💼 Technical Skills
+## Development Expertise 🚀
 
-### 🏗️ Primary Skills
-- **Programming Languages:** PHP, JavaScript, TypeScript.
-- **Frameworks and Libraries:** Laravel, Livewire, Vite, React, NextJS, Redux, VueJS.
-- **Databases:** MySQL, PostgreSQL, MariaDB, MongoDB.
-- **UI Frameworks:** Bootstrap, Tailwind CSS.
-- **DevOps:** Docker, Jenkins, GitLab.
-- **APIs:** RESTful API design and development.
+I specialize in building web applications with a solid understanding of both front-end and back-end technologies. My primary skills include:
 
-### 🤖 Secondary Skills
-- **Programming & Data:** Python, C++, Java, Arduino, Machine Learning, Deep Learning
-- **BI & Analytics:** SSRS, Power BI, Zabbix, Grafana.
-- **Infrastructure:** Veeam Backup, Veeam One, Active Directory, DNS, DHCP, etc. 
-- **Automation:** Automation Edge, RPA tools.
+- **Programming Languages**: PHP, JavaScript, TypeScript
+- **Frameworks and Libraries**: Laravel, Livewire, Vite, React, NextJS, Redux, VueJS
+- **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB
+- **UI Frameworks**: Bootstrap, Tailwind CSS
+- **DevOps**: Docker, Jenkins, GitLab
+- **API Development**: RESTful API design and development
 
-### 📌 Additional Skills:
+I’m passionate about creating **responsive** and **user-friendly interfaces**, and my expertise in **UX/UI design** ensures that the end-user experience is both intuitive and engaging.
 
-- **AutoCAD Proficiency:** Skilled in utilizing AutoCAD for precision and efficiency in design and documentation.
+## IT Support & Infrastructure 🖥️
 
-- **Multilingual Communication:** Fluent in Spanish, Portuguese, and English, facilitating seamless collaboration in a global context.
+In addition to my web development expertise, I have a broad range of skills in **IT support** and **infrastructure**. These include:
 
----
+- **Hardware Repair**: 🔧 Experienced in diagnosing and resolving hardware issues, ensuring seamless IT infrastructure functionality.
+- **IoT & Arduino**: 🤖 Passionate about integrating software and hardware for innovative solutions, especially in the **Internet of Things (IoT)**.
+- **NOC/SOC Operations**: 🔒 Proficient in **Network Operations Center** and **Security Operations Center** protocols to maintain and enhance system security and reliability.
 
-## 🚀 Projects & Experience
-- Proficient in building full-stack applications with modern tools and frameworks.
-- Experienced in implementing and maintaining infrastructure solutions and automations.
+## Secondary Skills ⚙️
 
-Feel free to explore my repositories for more details on my work! 🎯
+While my primary focus is on full-stack development and infrastructure, I also have secondary skills in various other technical areas:
 
----
+- **Programming & Data**: Python, C++, Java, Arduino, Machine Learning, Deep Learning
+- **Business Intelligence & Analytics**: 📊 SSRS, Power BI, Zabbix, Grafana
+- **Infrastructure Management**: Veeam Backup, Veeam One, Active Directory, DNS, DHCP
+- **Automation**: 🤖 Automation Edge, RPA tools
 
-## 📫 How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/magnumdrp/
+## AutoCAD Proficiency 📐
 
----
+I’m also skilled in using **AutoCAD** for creating precise designs and technical documentation, particularly for projects that require accurate planning and visualization.
 
-Thanks for stopping by! Looking forward to connecting with you. 😊
+## Multilingual Communication 🌍
 
+Being fluent in **Spanish**, **Portuguese**, and **English**, I can seamlessly collaborate in international teams and communicate effectively with clients, making me adaptable to diverse working environments and cultures.
+
+## Projects & Experience 💼
+
+Throughout my career, I’ve worked on several full-stack web applications, utilizing the latest frameworks and technologies. I am experienced in implementing and maintaining infrastructure solutions, automating processes, and ensuring that systems are robust and scalable.
+
+- **Full-stack applications**: 🌐 Developing modern, feature-rich applications with a focus on performance and scalability.
+- **Infrastructure management**: 🛠️ Configuring and optimizing infrastructure solutions to support both web applications and enterprise systems.
+- **Automation**: ⚡ Implementing automations to improve efficiency, reduce human error, and streamline workflows.
+
+You can explore my repositories for more details about my work and contributions.
+
+## Let's Connect 🤝
+
+I am always open to collaborating with fellow developers, tech enthusiasts, or anyone interested in web development, IT infrastructure, or other areas of technology. Don’t hesitate to reach out for discussions, advice, or potential collaborations.
+
+- **LinkedIn**: [Magnum Rodriguez](https://www.linkedin.com/in/magnumdrp/)
+
+Thanks for stopping by, and I look forward to connecting with you! 😊
