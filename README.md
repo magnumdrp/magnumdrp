@@ -25,9 +25,9 @@
 
 ### 📌 Additional Skills:
 
-- **AutoCAD Proficiency: Skilled in utilizing AutoCAD for precision and efficiency in design and documentation.
+- **AutoCAD Proficiency:** Skilled in utilizing AutoCAD for precision and efficiency in design and documentation.
 
-- **Multilingual Communication: Fluent in Spanish, Portuguese, and English, facilitating seamless collaboration in a global context.
+- **Multilingual Communication:** Fluent in Spanish, Portuguese, and English, facilitating seamless collaboration in a global context.
 
 ---
 
