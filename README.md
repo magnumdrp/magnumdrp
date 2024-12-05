@@ -34,7 +34,7 @@ Feel free to explore my repositories for more details on my work! 🎯
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [https://www.linkedin.com/in/magnumdrp/]
+- **LinkedIn:** https://www.linkedin.com/in/magnumdrp/
 
 ---
 
