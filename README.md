@@ -17,8 +17,8 @@ I’m 26 years old and have honed my skills in both modern web development and I
 
 I specialize in building web applications with a solid understanding of both front-end and back-end technologies. My primary skills include:
 
-- **Programming Languages**: PHP, JavaScript, TypeScript
-- **Frameworks and Libraries**: Laravel, Livewire, Vite, React, NextJS, Redux, VueJS
+- **Programming Languages**: PHP, JavaScript, TypeScript, Java
+- **Frameworks and Libraries**: Laravel, Livewire, Vite, React, NextJS, Redux, VueJS, Angular, NodeJS, Express, Spring Boot.
 - **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB
 - **UI Frameworks**: Bootstrap, Tailwind CSS
 - **DevOps**: Docker, Jenkins, GitLab
